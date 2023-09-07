@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CMT-1032-85-SMT-TR
+D Speakers & Transducers buzzer, 10 mm, 3.2 mm deep, M, 5 V, 85 dB, Surface Mount (SMT), Audio Transducer
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/afa1278b080ae5674de77097152a5711.pdf
+$ENDCMP
+#
+#End Doc Library

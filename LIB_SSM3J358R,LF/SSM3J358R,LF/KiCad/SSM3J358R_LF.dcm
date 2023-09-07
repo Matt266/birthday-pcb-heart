@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SSM3J358R,LF
+D MOSFET LowON Res MOSFET ID=-6A VDSS=-20V
+K
+F https://toshiba.semicon-storage.com/ap-en/product/mosfet/detail.SSM3J358R.html
+$ENDCMP
+#
+#End Doc Library

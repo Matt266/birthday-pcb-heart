@@ -1,0 +1,9 @@
+Manufacturer=Amphenol
+PartNumber=GMCB05B11124H1EU
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=1.3
+Released=2022-06-18 06:38:13
+Downloaded=2023-05-14 15:02:58
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Toshiba
+PartNumber=SSM3J358R,LF
+PartCategory=MOSFET (P-Channel)
+PackageCategory=SO Transistor Flat Lead
+PinCount=3
+Version=1.1
+Released=2020-11-21 13:09:17
+Downloaded=2023-04-19 13:12:54
+3D=Y
