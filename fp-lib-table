@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Speaker")(type "KiCad")(uri "${KIPRJMOD}/LIB_CMT-1032-85-SMT-TR/CMT-1032-85-SMT-TR/KiCad")(options "")(descr ""))
+  (lib (name "Battery")(type "KiCad")(uri "${KIPRJMOD}/LIB_BAT-HLD-001-THM/BAT-HLD-001-THM/KiCad")(options "")(descr ""))
+  (lib (name "PMOS")(type "KiCad")(uri "${KIPRJMOD}/LIB_SSM3J358R,LF/SSM3J358R,LF/KiCad")(options "")(descr ""))
+  (lib (name "Crystal")(type "KiCad")(uri "${KIPRJMOD}/LIB_830030819/830030819/KiCad")(options "")(descr ""))
+  (lib (name "GMC_USBMicroB")(type "KiCad")(uri "${KIPRJMOD}/LIB_GMCB05B11124H1EU/GMCB05B11124H1EU/KiCad")(options "")(descr ""))
+)
