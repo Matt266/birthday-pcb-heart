@@ -1,7 +1,9 @@
 # PCB Heart As Birthday Present
 
 As birthday present for our mother my brother and I decided to create a heart-shaped PCB with a buzzer
-to play "happy birthday" and leds to look pretty. It also should be powered by battery.
+to play "happy birthday" and LEDs to look pretty. It also should be powered by battery.
+
+Two buttons allow cycling through brightness levels and to initiate the "happy birthday".  
 
 <br><img align="center" width=500 height=auto src="Herz_Platine.jpg" alt="finished PCB" title="finished PCB"><br>
 
