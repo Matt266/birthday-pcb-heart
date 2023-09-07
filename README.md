@@ -10,10 +10,10 @@ Two buttons allow cycling through brightness levels and to initiate the "happy b
 
 ## The Circuit
 
-The exact partnumbers can be taken from the bom and the KiCAD project. I decided to make use of a LiPo-battery for
+The exact partnumbers can be taken from the BOM and the KiCAD project. I decided to make use of a LiPo-battery for
 the lower self discharge, higher capacity and possibility to recharge in comparison to regular batteries. 
 
-A battery management ic controls charging and allowed me to add a usb connector as charging port. The PCB is also 
+A battery management ic controls charging and allowed me to add an usb connector as charging port. The PCB is also 
 powered during charging. A P-Channel MOSFET protects the circuit for reverse polarity on the LiPo-Input. 
 
 Two charge pumps step up the voltage to 5V. This made it Arduino compatible so I could more easily use an Arduino as
